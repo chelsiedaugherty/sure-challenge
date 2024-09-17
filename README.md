@@ -1,4 +1,4 @@
-### Sure QA Technical Challenge
+# Sure QA Technical Challenge
 Tests created by: Chelsie Daugherty
 
 This file contains automation test scripts for Hurricane Insurance
